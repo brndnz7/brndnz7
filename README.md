@@ -51,7 +51,20 @@ Du GEII à la passion du web — je build des apps de A à Z.
 
 <br/>
 
+---
+
+<br/>
+
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=brndnz7&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" width="90%" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brndnz7&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&hide_title=true&rank_icon=percentile" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brndnz7&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&hide_title=true" />
+
+<br/><br/>
 
 <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=brndnz7&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
