@@ -1,54 +1,49 @@
-```
- _                     _      ____  
-| |__  _ __ _ __   __| |_ __|___ \ 
-| '_ \| '__| '_ \ / _` | '_ \ __) |
-| |_) | |  | | | | (_| | | | / __/ 
-|_.__/|_|  |_| |_|\__,_|_| |_|_____|
-```
+<div align="center">
 
-```sh
-$ whoami
-```
-Baran · développeur web · Strasbourg, France
+# Baran
 
-```sh
-$ cat stack.json
-```
-```json
-{
-  "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS", "React Native"],
-  "backend": ["Node.js", "PHP", "Symfony", "Laravel"],
-  "data": ["PostgreSQL", "MySQL", "Prisma", "Supabase"],
-  "deploy": ["Vercel", "Git", "CI/CD"],
-  "design": ["Figma"]
-}
-```
+**Développeur web full-stack** · Strasbourg, France
 
-```sh
-$ cat parcours.txt
-```
-```
-GEII → MMI (plot twist)
-Découverte du web → plus jamais touché à un oscilloscope
-Actuellement en BUT MMI @ IUT de Haguenau
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ton@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](#)
 
-```sh
-$ ls projets/
-```
-```
-📁 en cours...    → toujours un side project qui tourne
-📁 stage/        → intranets, automatisation, intégrations
-📁 perso/        → apps web, expérimentations, trucs cassés à 3h du mat
-```
-
-```sh
-$ echo $CONTACT
-```
-[![Email](https://img.shields.io/badge/-ton@email.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:ton@email.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](#)
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brndnz7&color=1a1a1a&style=flat-square&label=~" />
-</p>
+Étudiant en **BUT MMI** à l'IUT de Haguenau, spécialisé dans le développement web. Parcours atypique : passé par le GEII avant de bifurquer vers le multimédia et le web.
+
+Je conçois et développe des applications web complètes — du design à la mise en production.
+
+---
+
+### Stack
+
+**Frontend** · React · Next.js · TypeScript · Tailwind CSS · React Native
+
+**Backend** · Node.js · PHP · Symfony · Laravel
+
+**Data** · PostgreSQL · MySQL · Prisma · Supabase
+
+**Outils** · Git · Vercel · Figma · CI/CD
+
+---
+
+### Activité
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=brndnz7&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=brndnz7&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=brndnz7&color=58a6ff&style=flat-square&label=profil+views" />
+</div>
